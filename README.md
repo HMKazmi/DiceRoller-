@@ -7,6 +7,7 @@ My first ever Flutter project.
 This project is a starting point for a Flutter application.
 
 This was part of my Flutter course offered by Academind (Maxmillian Schwarzmuller, Udemy)
+I ran the app on real device and it was really pleasing learning experience.
 
 Here's the perview of the app:
 
